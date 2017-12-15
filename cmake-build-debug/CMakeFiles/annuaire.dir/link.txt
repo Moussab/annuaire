@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/annuaire.dir/main.c.o CMakeFiles/annuaire.dir/linkedList.c.o CMakeFiles/annuaire.dir/utilities.c.o  -o annuaire 
